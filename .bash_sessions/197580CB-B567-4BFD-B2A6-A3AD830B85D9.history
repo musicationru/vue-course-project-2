@@ -1,0 +1,502 @@
+./ngrok http 8080 -host-header="localhost:8080"
+./ngrok http 8080 -host-header="localhost:8080"
+npm run serve
+node app.js
+npm run serve
+npm run serve
+node app.js
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+node app.js
+node app.js
+node app.js
+nodemon app.js
+npm starrt
+npm start
+npm start
+npm start
+npm run serve
+npm start
+npm run serve
+npm start
+npm run serve
+npm start
+npm run serve
+./ngrok http 8080 host-header="localhost:8080"
+./ngrok http -host-header="localhost:8080"
+./ngrok http --host-header=rewrite 8080
+./app.post('/isOnline', (req, res) => {
+  room_name = req.body
+  axios.get(`${url}/isOnline`, { activeRooms }).then((response) => {
+    activeRooms = response.data
+    activeRooms.push(room_name)
+    console.log(activeRooms)
+  })
+})
+app.get('/isOnline', (req, res) => {
+  res.json(activeRooms)
+})
+app.post('/isOffline', (req, res) => {
+  room_name = req.body
+  axios.get(`${url}/isOnline`, { activeRooms }).then((response) => {  
+    activeRooms = response.data
+    activeRooms.splice(activeRooms.findIndex(r => r.room_name === room_name.room_name), 1)
+    console.log(activeRooms)
+  })
+  
+})./ngrok http --host-header=rewrite 8080
+./ngrok http --host-header=rewrite 8080
+npm run serve
+./ngrok http --host-header=rewrite 8080
+npm run serve
+npm run serve
+npm start
+./ngrok http -header-rewrite=localhost:8080
+./ngrok http --host-header=rewrite 8080
+./ngrok http --host-header=rewrite 8080
+npm run serve
+npm install tone@next
+npm i -dev-save nodemone
+npm -dev-save nodemon
+npm install --save-dev nodemon
+quasar dev
+quasar dev
+npm install -g @quasar/cli
+sudo npm install -g @quasar/cli
+cd Documents
+cd projects/others
+ls
+quasar create test-musication-app
+ls
+quasar create test-quasar
+quasar create test-quasar-musication
+quasar dev
+npm --save-dev nodemon
+npm install -save--dev nodemon
+npm start
+npm run dev
+npm run serve
+npm run serve
+/Applications/MAMP/htdocs/.env; exit
+/Users/user/Documents/projects/others/teachers.musication/.env ; exit;
+ls -a
+php craft setup/security-key
+ls
+cd Documents/projects/others
+ls
+cd ../
+ls
+cd ../
+cd Applications
+cd Applications
+ls
+cd ../
+ls
+cd Applications
+ls
+ls
+cd Mamp
+cd MAMP
+;s
+ls
+ls
+sudo cd MAMP
+ls
+cd ../
+ls
+cd Applications/MAMP
+cd Applications
+ls
+sudo ls
+ls
+cd ../
+cd Documents/projects/others
+ls
+cd teachers.musication
+;s
+ls
+ls -@l .env
+ls
+chmod 744 .env
+ls -i
+ls -l
+chmod 744 composer.json composer.lock
+ls -l
+chmod config/license.key
+ls -l
+cd config
+ls
+ls -l
+chmod 744 license.key
+ls -l
+cd ../
+ls -l
+chmod 744 config/project/*
+chmod 744 config/project
+cd config
+ls
+cd ../
+chmod 744 storage/*
+chmod 744 vendor/*
+chmod 744 web/cpresources/*
+cd storage
+ls
+ls -l
+cd ../
+ls
+php craft setup/security-key
+ls
+cd .env
+chmod 744 .env
+ls -l
+ls -a
+ls -a -l
+php craft setup/db-creds
+git --version
+git --help
+git --version
+git init
+git status
+git add .
+git status
+git commit -m "1.0 v. vue 3 first app"
+git status
+git branch
+git remote add origin https://github.com/musicationru/kusovaya1.git
+git branch -M main
+git push -u origin main
+npm run serve
+npm run serve
+create vue курсовая2
+vue create курсовая2
+vue create vue-course-project-2
+cd vue-course-project-2
+npm run serve
+vue --version
+npm i vue@next
+vue --v
+vue --version
+npm install -g @vue/cli
+vue upgrade --next
+cd vue-course-projects-2
+cd vue-course-project-2
+vue upgrade --next
+vue upgrade --next
+npm install vue@next
+vue --version
+npm install -g @vue/cli
+sudo npm install -g @vue/cli
+vue upgrade --next
+npm run serve
+npm run serve
+npm run serve
+vue ui
+npm run build
+ngrok http --host-header=rewrite 8080
+.ngrok http --host-header=rewrite 8080
+ngrok http --host-header=rewrite 8080
+./ngrok http --host-header=rewrite 8080
+npx browserslist@latest --update-db
+npm run build
+npm run build
+npm run build
+npm run build
+npm install --save zone.js/dist/webapis-rtc-peer-connection
+npm install zone.js
+npm run build
+npm run serve
+npm start
+npm run serve
+npm i axios
+npm run serve
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/musicationru/vue-course-project-2.git
+git branch -M main
+git push -u origin main
+git status
+git status
+ls
+npm install -g firebase-tools
+firebase login
+sudo npm install -g firebase-tools
+firebase login
+firebase init
+firebase deploy
+npm run build
+firebase deploy
+npm run serve
+npm uninstall --dev eslint
+npm uninstall --dev eslint-plugin-vue
+npm uninstall --dev sass sass-loader
+vue create vue-course-project-3
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm i vue-router@next
+npm run serve
+npm run serve
+npm run serve
+npm i vue-router@4
+npm run serve
+npm i vuex@next
+npm run serve
+npm run serve
+git status
+git help
+git rebase
+git status
+git init
+git statys
+git status
+git add .
+git status
+git commit -m "first commit" 
+git status
+git remote add origin https://github.com/musicationru/vue-course-project-3.git
+git branch -M main
+git push -u origin main
+firebase init
+npm i axios
+npm install -g firebase-tools
+sudo npm install -g firebase-tools
+firebase deploy
+firebase init
+firebase deploy
+npm run serve
+firebase deploy
+npm init
+firebase init
+firebase ini
+firebase init
+npm run build
+firebase deploy
+npm run serve
+cd ../
+vue create musicationapp2
+cd musicationnew
+vue create musicationapp2
+npm i vue-router@4
+npm run serve
+cd ../
+vue create musicationapp
+npm i vuex@next --save
+npm i vue-router@4
+npm run serve
+npm install @vue/composition-api
+npm run serve
+npm i vue-router
+npm run serve
+npm uninstall vue-router
+npm i vue-router
+npm run serve
+npm run serve
+cd ../
+vue create musicationapp2
+cd ../
+cd musicationnew
+vue create musicationappnew
+npm i -g @vue/cli
+cd ../
+ls
+vue create musicationapp2
+npm i vue-router@4
+npm run serve
+npm install primevue@^3.2.0-rc.1 --save
+npm install primeicons --save
+npm run serve
+npm install primeflex --save
+npm uninstall primeflex primeicons primevue
+npm install element-plus --save
+npm run serve
+npm install @vue/composition-api
+npm i vuex
+npm run serve
+npm i vue-router@4
+npm uninstall vue-router
+npm i vue-router@4
+npm uninstall vue-router
+npm i vue-router
+npm run serve
+npm uninstall vue-router
+npm i vue-router@4
+npm uninstall vue-router
+npm i vue-router
+npm run serve
+npm run serve
+npm install vee-validate --save
+npm i yup
+npm uninstall vee-validate
+npm run serve
+npm run serve
+npm run serve
+npmrun serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm install startaudiocontext
+npm run serve
+npm i -S vuedraggable
+npm run serve
+npm run serve
+firebase login
+firebase init
+firebase init
+npm run build
+firebase deploy
+npm run build
+firebase deploy
+npm run serve
+npm run build
+firebase deploy
+npm run build
+firebase deploy
+firebase deploy
+npm run build
+npm run build
+firebase deploy
+npm run build
+firebase deploy
+npm run dev
+npm run serve
+npm run serve
+npm run serve
+npm run build
+firebase deploy
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run build
+firebase deploy
+npm run build
+firebase deploy
+np npm run build
+npm run build
+firebase deploy
+npm run serve
+npm run build
+firebase deploy
+npm install --save firebase
+npm run build
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+firebase init
+firebase init
+firebase deploy
+npm run build
+npm run build
+firebase deploy
+firebase init
+firebase init
+npm run build
+firebase deploy
+sudo firebase deploy
+npm run build
+firebase deploy
+firebase deploy
+firebase serve --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy
+firebase login
+firebase deploy
+firebase init
+npm run build
+npm install eruda --save
+firebase deploy
+npm run build
+firebase
+firebase deploy
+npm run build
+firebase deploy
+npm run build
+firebase deploy
+npm install firebase-functions@latest
+npm i firebase-admin@latest --save
+firebase init functions
+firebase deploy functions
+firebase deploy functions
+firebase deploy
+firebase deploy
+firebase deploy --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase logon
+firebase login
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+npm i
+firebase deploy --only functions
+cd functions
+npm i
+npm i axios
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+npm run serve
+firebase serve --only functions
+firebase deploy --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase serve --only functions
+firebase serve --only functions
+npm i -g firebase-tools
+  

@@ -1,0 +1,53 @@
+{
+	"analytics-uuid": "0f2bd5ec-d8bd-4264-9f5d-db3e98d85dd4",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1642510528762
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "107499733553165268591",
+		"email": "bentley.livemusic@gmail.com",
+		"email_verified": true,
+		"at_hash": "qa6Ri2J3P06N3MsE-Az7ig",
+		"iat": 1611427112,
+		"exp": 1611430712
+	},
+	"tokens": {
+		"expires_at": 1642514142967,
+		"refresh_token": "1//0csV6OnlgmP1GCgYIARAAGAwSNwF-L9Ir6zj3u4xOFrudKMZ0XYK5y9qiisM6EshnOAIzVYJlgs_2xtDvXR5VTfl37KdGQPuhku8",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.A0ARrdaM9bMjvAdXJmdxqaS-BsgGhduaO-A_1TepD8Xid67qB7CfkgDVuUc11Dj57ENU-z2uQRSphy6oJBUJs5E41Vi5YeyjRrj-LzQV1UXnE2-huv4kNL5p6OQO7YPX6HYihdpeLtRjZq6Mdxk5liOZZLw-y9UtjIxIUFhys",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNhMDA2MjBjNWFhN2JlOGNkMDNhNmYzYzY4NDA2ZTQ1ZTkzYjNjYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA3NDk5NzMzNTUzMTY1MjY4NTkxIiwiZW1haWwiOiJiZW50bGV5LmxpdmVtdXNpY0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Inl3QWRUaEh3QVBPdGdPTjdlX21rU0EiLCJpYXQiOjE2NDI1MTA1NDMsImV4cCI6MTY0MjUxNDE0M30.hdGtEdznSHxfZC6k7lQkHPN36v-qcSwSNst3CPun2zymb7YElzeO219IPv77f7VnswBU21c5iVRLqUuZCtJ6tYVs2v0sLVkAlzRm3PTr3zkauZiUKzGJuv8uDbTwUHzWBhM4TMfYhdTI06i-1G0LjZDs15T6HYJpA3XT0tfOML3tqlQVxldfggnP0jwTWT65dDksg9lHdzTFnjT9pW4WAhK0a_H5B6wfDHNSxIFtx4-RRczq536mo259da6_WDtxqI0ot9kEdbmVOVDO3npA7afFyzvu_2i0_j0OKyszetilBU0iLuqeAUR1pXEuJIxzjMN41yw4iKmjApUiR-uOaw"
+	},
+	"activeProjects": {
+		"/Users/user/Documents/projects/others/vue-course-project-2": "vue-course-project-2",
+		"/Users/user/Documents/projects/others/vue-course-project-3": "vue-course-project-3",
+		"/Users/user/Documents/projects/musicationapp1/musicationclient Vue2": "musicationapp"
+	},
+	"adminsdkconfig": {
+		"musicationapp": {
+			"projectId": "musicationapp",
+			"databaseURL": "https://musicationapp-default-rtdb.firebaseio.com",
+			"storageBucket": "musicationapp.appspot.com"
+		}
+	}
+}

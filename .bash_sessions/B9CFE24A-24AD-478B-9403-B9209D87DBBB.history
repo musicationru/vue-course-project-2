@@ -1,0 +1,501 @@
+npm start
+npm run start
+npm run start
+npm run serve
+npm run serve
+npm run start
+npm run start
+npm run serve
+npm run serve
+npm run start
+git --v
+git -version
+brew install git
+install git
+sudo brew install git -g
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install git
+git --v
+git --version
+git config --global user.name "Maksim Maksimov"
+git config --global user.email "bentley.livemusic@gmail.com"
+git config
+git config -list
+git config --list
+git help commit
+npm run serve
+npm run start
+git clone https://musicationru@bitbucket.org/musicationru/dom-muzykanta-app.git
+brew install heroku/brew/heroku
+heroku --v
+heroku --version
+heroku login
+brew install heroku/brew/heroku
+heroku --version
+heroku login
+node --version
+npm --version
+git --version
+cd Documents/projects/
+heroku create
+git remote -v
+heroku git:remote -a musicationserver
+git remote -v
+cd ..
+cd ..
+heroku login
+heroku git:remote -a musicationserver
+git init
+cd Documents/projects/musicationserver
+git init
+git add
+git add .
+git commit -m 'Initial commit'
+heroku git:remote -a musicationserver
+git add .
+git commit -m "Procfile"
+git add .
+git commit -m "Procfile"
+git push heroku master
+heroku local web
+npm init
+heroku open
+heroku local web
+npm init
+npm install
+heroku local web
+heroku logs --tail
+heroku local web
+heroku local web
+heroku local web
+git push heroku master
+git add .
+git commit -m "Edited a Procfile."
+git push heroku master
+git add .
+git commit -m "Added new url to routes"
+git push heroku master
+git add .
+git commit -m "added index.html route"
+git push heroku master
+git add .
+git commit -m "deleted index.html route"
+git push heroku master
+redis-server
+install redis-server
+sudo apt-get install redis-server
+sudo apt-get install redis-server
+sudo install redis-server
+brew install redis
+brew services start redis
+npm install express-session --save
+npm install redis connect-redis --save
+npm install cookie-parser
+npm serve
+npm run start
+npm run build
+npm run build
+npm run build
+npm run build
+npm run build
+npm run serve
+heroku login
+git add .
+commit -am 'v.1.0'
+git commit -am 'v.1.0'
+git push heroku master
+npm run start
+npm run serve
+touch .env
+к
+r
+npm run serve
+vue-rss-feed
+npm i vue-rss-feed
+npm audit fix
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm install eruda --save
+npm install eruda-vue --save
+npm install --save-dev vue-cli-plugin-eruda
+npm run serve
+nom install tone
+npm install tone
+re
+npm re
+npm help config
+npm install tone@next
+npm delete eruda
+npm uninstall eruda
+npm uninstall vue-cli-plugin-eruda
+npm run serve
+npm run build
+npm run build
+npm run serve
+npn run serve
+npm run serve
+npm run serve
+npm run build
+npm run serve
+npm run serve
+npm run build
+npm run build
+npm run serve
+npm run build
+npm run serve
+npm run build
+npm run build
+npm run serve
+heroku login
+git add .
+git commit -am "added nextLesson v.1.1.1"
+git push heroku master
+npm run serve
+/Users/user/Downloads/ngrok; exit
+/Users/user/Downloads/ngrok ; exit;
+/Users/user/Downloads/ngrok; exit
+/Users/user/Downloads/ngrok; exit
+/Users/user/Downloads/ngrok ; exit;
+./ngrok authtoken 1kQkKeUWsYiTVwAu8bQnmhNA98F_5BKyTXhpH3srPsrajaSHw
+./ngrok authtoken 1kQkKeUWsYiTVwAu8bQnmhNA98F_5BKyTXhpH3srPsrajaSHw
+./ngrok authtoken 1kQkKeUWsYiTVwAu8bQnmhNA98F_5BKyTXhpH3srPsrajaSHw
+/Users/user/Downloads/ngrok; exit
+cd Documents
+ls
+../
+cd ../
+cd Downloads
+ls
+unzip ngrok-stable-darwin-amd64.zip
+./ngrok authtoken 1kQkKeUWsYiTVwAu8bQnmhNA98F_5BKyTXhpH3srPsrajaSHw
+./ngrok help
+./ngrok http 3000
+./ngtok http 8080
+./ngrok http 8080
+./ngrok http --host-header=rewrite 8080
+./ngrok http -host-header="localhost:8080"
+ngrok http -host-header="localhost:8080"
+./ngrok http 8080
+./ngrok http --host-header=rewrite 8080
+./ngrok http 8080 --host-header=rewrite
+./ngrok http 8080
+./ngrok help
+cd Downloads/ngrok
+cd Downloads
+./ngrok http 3000
+./ngrok http 3000
+ssh-keygen -t rsa
+cd ~/.shh
+cd ~/.ssh
+ls
+clear
+cd ../
+cd ../
+ssh c28958@91.201.52.24
+cd ~/.shh
+cd ~/.ssh
+ls
+cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7yfvsTRTLnAoxXVD04ir/fxynPCvNL2Bn4Cl/PsC3gBRmYxIk4C0yljKynMWFhq8w/KoUcdeSTOCqnH7oaepBsfk8oUpn37JLlLMRYqENFkEP/H9sMJTPXf8O+d18MMjj14JInnynFPJk7H6aKEBbpz0QItgZu9OF8klLpnq/58IU039DR02ile61TSsrOL/AvaR0u4yqQiCaGsUvn0nkf9mUwUgJyqX8oTgHM2Bg/db7wVX48tsgFjrkOF7rdDKasvGIDkaMBbafg1LrnNearC2MPd06zOzoVoitsGw58lzyQYqK
+ssh c28958@
+ssh 
+ssh 
+ssh c28958@
+ssh 
+cd ~/.ssh
+ssh 
+c28958
+c28958
+ssh 
+ssh c28958@91.201.52.24
+ssh c28958@91.201.52.24
+ssh c28958@91.201.52.24
+кы
+rs
+ssh c28958@91.201.52.24
+ssh c28958@91.201.52.24
+ssh c28958@91.201.52.24
+npm run start
+npm run build
+npm run build
+npm run dev
+npm run start
+npm run serve
+npm run build
+npm run serve
+npm run serve
+npm run start
+npm run serve
+npm run build
+vue add pwa
+npm run serve
+vue add pwa
+npm run build
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+npm run build
+npm install --global pwa-asset-generator
+sudo npm install --global pwa-asset-generator
+pwa-asset-generator --splash-only
+pwa-asset-generator logo.svg ./assets --splash-only
+pwa-asset-generator logo.svg ./assets --splash-only
+pwa-asset-generator logo.svg ../assets --splash-only
+pwa-asset-generator logo.svg img/icons/ --splash-only
+pwa-asset-generator logo.svg ./assets --splash-only
+pwa-asset-generator logo.svg ./public/img/icons/ --splash-only
+pwa-asset-generator logo.svg --splash-only
+npm i pwa-asset-generator
+pwa-asset-generator --help
+npm pwa-asset-generator --help
+pwa-asset-generator --help
+npm global install pwa-asset-generator --help
+npm install --global pwa-asset-generator
+npm uninstall pwa-asset-generator
+npm run serve
+npm run build
+npm run build
+npm run dev
+npm run build
+npm run build
+npm run build
+npm run serve
+npm run build
+npm run serve
+npm run build
+cd ../
+npm create vue musicationApp2
+vue create musicationApp2
+vue create musicationapp2.0
+npm run serve
+npm install dev nodemon
+npm install dev-nodemon
+npm install vuetify
+cd ../
+npm init
+npm install express bcryptjs passport passport-jwt jsonwebtoken mongoose body-parser cors concurrently
+node index.js
+node index.js
+nodemon --version
+nodemon
+npm i -g nodemon 
+npm i -g nodemone
+npm i -g nodemon
+npm i nodemon
+node index.js
+npm run serve
+npm install --save twilio-video@2.8.0
+npm run serve
+ls
+cd Documents/projects
+cp .env.template .env
+cp .env.template .env
+cd others
+cd video-quickstart-js-master
+cp .env.template .env
+cp .env.template .env
+cp .env.template .env
+cp .env.template .env
+npm install
+npm start
+npm run dev
+npm run start
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm i cors body-parser
+npm i axios
+node app.js
+npm i bodyParser
+node app.js
+npm cookie-parser
+npm i cookie-parser
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm --save-dev nodemon
+npm i --save-dev nodemon
+node app.js
+node app.js
+npm install --save Event
+npm i twilio-video
+npm run serve
+npm i sockjs-client
+npm i sockjs-node
+npm i sockjs
+npm i webpack
+npm uninstall webpack
+npm run serve
+vue-cli-sevice serve
+npm vue-cli-serve
+npm vue-cli-service serve
+npm run serve
+npm serve
+smo
+npm 
+npm
+npm run vue-cli-service serve
+vue-cli-service
+vue-cli-service serve
+npm run serve
+npm i
+npm run serve
+npm run serve
+npm i --save-dev webpack
+npm run serve
+npm i vue-cli
+npm run serve
+npm run serve
+npm uninstall webpack
+npm i vue-cli
+npm run serve
+npm i twilio-video
+npm install -g npm
+sudo npm install -g npm
+npm i sockjs
+npm i sockjs-node
+node app.js
+npm start
+npm run start
+node app.js
+node app.js
+npm run serve
+npm i twilio-video register-service-worker
+npm run serve
+npm twilio-video@1.5
+npm i twilio-video@1.5.1
+npm i twilio-video
+npm i twilio-video@2.9.1
+npm uninstall twilio-video
+npm install twilio-video --save
+node app.js
+node app.js
+node app.js
+./ngrok http
+./ngrok http 8000
+./ngrok authtoken 1kQkKeUWsYiTVwAu8bQnmhNA98F_5BKyTXhpH3srPsrajaSHw
+./ngrok http 80
+./ngrok
+./ngrok http 80
+./ngrok http 8080
+ngrok http -host-header=rewrite site.dev:80
+./ngrok http -host-header=rewrite site.dev:80
+./https://04dbb03bbb51.ngrok.io
+./ngrok http -host-header=rewrite 8080
+npm run serve
+node app.js
+npm run servw
+npm run serve
+npm run serve
+node app.js
+node app.js
+node app.js
+@c28958
+npm start
+node app.js
+./ngrok http 8080
+./ngrok http 8080 -host-header="localhost:8080"
+./ngrok http 8080 -host-header="localhost:8080"
+npm run serve
+node app.js
+npm run serve
+npm run serve
+node app.js
+npm run serve
+npm run serve
+npm run serve
+npm run serve
+node app.js
+node app.js
+node app.js
+nodemon app.js
+npm starrt
+npm start
+npm start
+npm start
+npm run serve
+npm start
+npm run serve
+npm start
+npm run serve
+npm start
+npm run serve
+./ngrok http 8080 host-header="localhost:8080"
+./ngrok http -host-header="localhost:8080"
+./ngrok http --host-header=rewrite 8080
+./app.post('/isOnline', (req, res) => {
+  room_name = req.body
+  axios.get(`${url}/isOnline`, { activeRooms }).then((response) => {
+    activeRooms = response.data
+    activeRooms.push(room_name)
+    console.log(activeRooms)
+  })
+})
+app.get('/isOnline', (req, res) => {
+  res.json(activeRooms)
+})
+app.post('/isOffline', (req, res) => {
+  room_name = req.body
+  axios.get(`${url}/isOnline`, { activeRooms }).then((response) => {  
+    activeRooms = response.data
+    activeRooms.splice(activeRooms.findIndex(r => r.room_name === room_name.room_name), 1)
+    console.log(activeRooms)
+  })
+  
+})./ngrok http --host-header=rewrite 8080
+./ngrok http --host-header=rewrite 8080
+npm run serve
+./ngrok http --host-header=rewrite 8080
+npm run serve
+npm run serve
+npm start
+./ngrok http -header-rewrite=localhost:8080
+./ngrok http --host-header=rewrite 8080
+./ngrok http --host-header=rewrite 8080
+npm run serve
+npm install tone@next
+npm i -dev-save nodemone
+npm -dev-save nodemon
+npm install --save-dev nodemon
+quasar dev
+quasar dev
+npm install -g @quasar/cli
+sudo npm install -g @quasar/cli
+cd Documents
+cd projects/others
+ls
+quasar create test-musication-app
+ls
+quasar create test-quasar
+quasar create test-quasar-musication
+quasar dev
+npm --save-dev nodemon
+npm install -save--dev nodemon
+npm start
+npm run dev
+npm run serve
+npm run serve
+/Applications/MAMP/htdocs/.env; exit
+/Users/user/Documents/projects/others/teachers.musication/.env ; exit;

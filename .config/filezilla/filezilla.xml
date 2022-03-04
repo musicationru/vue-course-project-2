@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.28.0" platform="mac">
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="fzsftp executable" />
+		<Setting name="fzstorj executable" />
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">1000</Setting>
+		<Setting name="Speedlimit outbound">100</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Logging show detailed logs">0</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Cache TTL">600</Setting>
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Last Server Path">1 0 7 domains</Setting>
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Last automatic update check">2019-03-05 09:53:06</Setting>
+		<Setting name="Last automatic update version">3.28.0</Setting>
+		<Setting name="Update Check New Version">nightly 2019-03-05 http://filezilla-project.org/nightlies/2019-03-05/x86_64-apple-darwin18.2.0/FileZilla3.app.tar.bz2 10928082 sha512 e65570492c6f4048918f39e6c02301eb99a9a56121bb65cb442bf81acff219b458a262aeeed8d2f84edbe521df45e3a7231370a429e10fc036d23ebf57b8e1bd 
+release 3.40.0 https://dl1.cdn.filezilla-project.org/FileZilla_3.40.0_macosx-x86.app.tar.bz2 10687489 sha512 a9b2215ece5ca7b0db23ddbd2806f2e4f7d78b3026d8b96b344f2f4372e9378a1d2949340d556f6a79d9610e9d3a8ff19581047dd837f02f6ffed7e097443d62
+beta 3.41.0-rc1 https://dl1.cdn.filezilla-project.org/FileZilla_3.41.0-rc1_macosx-x86.app.tar.bz2 10688026 sha512 3ff4f79e724ef5971be50663bc174c6b76ebbcf0dfb9a38a02bd0d338c307e97292f6e3146059e7b95545799dff35cadff3735bc41547e5a12d4fb3b0413cfc2
+
+3.41.0-rc1 (2019-02-26)
+
+- Fixed crash if adding a bookmark with the current connection not yet having a Site Manager entry
+- Fixed a rare crash if closing FileZilla while a recursive chmod operation is still in progress
+- Fixed a rare crash if starting directory comparison on an empty directory without logical parent
+- Fixed a rare crash on changing the file list sort order when the focused item index has previously become invalid
+- Restrict the maximum length of regular expressions in filter conditions due to bugs in some implementations of the C++ Standard Library causing crashes
+- OS X: Fixed crash if the path of a file dropped on FileZilla cannot be obtained
+- Fixed order in which directories helper tools and data files are searched for
+- Fixed a rare crash if closing tab during an ongoing recursive directory deletion
+
+3.40.0 (2019-01-25)
+
+- Official binaries are now linked against GnuTLS 3.6.6
+
+3.40.0-rc2 (2019-01-22)
+
+- Fix regression introduced in rc1 where adding files to queue creates extra server items if the connection was established through the Site Manager
+
+3.40.0-rc1 (2019-01-18)
+
++ Added TLS 1.3 support by linking official binaries against GnuTLS 3.6.5
++ Refactored how sites and servers are being represented internally to fix issues trigged by renaming sites in the Site Manager
+- Fix display of server names containing ampersands in several dialogs
+- Fix regular expression filter in the quick search panel
+- Fix a crash if files are added to the queue when there are already files for multiple different servers in the queue
+- Fix a crash applying filters when there are no selected files and the focused item is past the new file count
+- Fix a crash if emptying the queue while a directory creation item is active
+- Fix a potential crash if FileZilla is being closed the moment a delayed dialog has already been created but before it is shown.
+
+3.39.0 (2018-11-30)
+
+- Fix timestamps of newly created empty files on the server if the option to preserve timestamps is set
+
+3.39.0-rc1 (2018-11-23)
+
++ The down button on the keyboard now opens the quickconnect history dropdown menu if the quickconnect bar has the input focus
++ The down button on the keyboard now opens the search options if the quick search dialog has the input focus
+- Refactored how close notifications were handled in the network code
+- Fixed saving of the 'not equal' and 'less than' conditions for size filters
+- Fixed regular expression filters not respecting the case-sensitivity checkbox in all situations
+- Restore context menu item to delete file in local file search
+
+3.38.1 (2018-10-27)
+
+- Fixed crash if transferring three or more files in parallel when speed limits are enabled
+
+3.38.0 (2018-10-26)
+
+- Updated translations
+
+3.38.0-rc1 (2018-10-19)
+
++ Refreshing remote file list while holding Ctrl now clears the remote directory cache for the current server
++ Changed default logon type if creating a new site in the Site Manager
+- Fixed state of controles in the Site Manager when creating a new site after the previously viewed site has been predefined
+- Fixed dragging remote files to queue
+- Building and running FileZilla now depends on libfilezilla &gt;= 0.15.0 (https://lib.filezilla-project.org/)
+- Improve compatibility with GnuTLS 3.6.x
+- Fix building with automake &gt;= 1.16.0
+
+3.37.4 (2018-10-04)
+
+- MSW: Fix regression introduced in 3.37.3 with moving files locally using drag&amp;drop
+
+3.37.3 (2018-10-01)
+
+- Fix issues with directory creation when uploading many files in parallel
+- macOS: Fix crashes if dragging more than one file
+- macOS: Opt out of Dark Mode
+
+3.37.1 (2018-09-21)
+
+- Local path is no longer forgotten when leaving synchronized browsing mode
+
+3.37.0 (2018-09-17)
+
+- Fix remote target path if uploading files through the search dialog
+
+3.37.0-rc1 (2018-09-10)
+
++ Use a cache for the system trust store to speed up connecting establishment on systems with huge certificate revocation lists in the system trust store
+- Fixed bug in GnuTLS causing crashes on connection establishment
+- Fixed enabled state of controls in the Site Manager if switching to a protocol not supporting the previously selected logontype
+
+3.36.0 (2018-08-27)
+
+- Fix --site-manager command-line argument
+- Fix potential crash with malformed directory listings
+- Fix potential crash if opening/closing tabs or starting the queue while directories are being renamed or deleted
+
+3.36.0-rc1 (2018-08-20)
+
++ Ask for explicit confirmation prior to falling back to insecure plaintext FTP if a server refuses to use TLS
++ Warn if an FTP server refuses TLS that is known from previous connections to be capable of TLS
+
+3.35.2 (2018-08-06)
+
+- Fix functionality of --site and --local command-line options
+- MSW: Fix local rename not updating file list
+- OS X: Fix compatibility with old CPUs not supporting SSE4
+
+3.35.1 (2018-07-23)
+
+- Fix context menu in search dialog
+
+3.35.0 (2018-07-23)
+
++ Improved appearance of activity indicators, sort direction indicators, and quick search panel buttons on high-DPI displays
+
+3.35.0-rc2 (2018-07-17)
+
+- OS X: Fix dependency problem in build system
+
+3.35.0-rc1 (2018-07-16)
+
++ Add option to settings dialog to have FileZilla restore tabs and connections after a restart
+- Fix initial size of Site Manager being too small on some systems
+
+3.34.0 (2018-06-17)
+
++ After deleting files, the focus rectangle now stays near the previously deleted file
+
+3.34.0-rc1 (2018-06-08)
+
++ Refactoring of the Site Manager internals
++ Moved protocol selection to the top in the Site Manager
++ Adjusted spacing in the Site Manager
++ Slightly reduced height of certificate details dialog
+- MSW: Properly quote the uninstall command in the registry
+- Updated builtin pugixml to version 1.9
+
+3.33.0 (2018-05-07)
+
+- MSW: Microsoft broke the ICopyHook interface in Windows 1803. Until Microsoft fixes the bug in Windows, drag &amp; drop from FileZilla into Explorer will not work on Windows 1803.
+
+3.33.0-rc1 (2018-04-27)
+
++ The contents of the transfer queue can now be sorted
++ SFTP: Support key files encrypted with aes256-ctr, e.g. as created by OpenSSH 7.6 and later
+- SFTP: Fix preserve timestamps menu option
+
+3.32.0 (2018-04-03)
+
++ Further SFTP performance improvements
+
+3.32.0-rc1 (2018-03-23)
+
++ The Site Manager no longer shows controls not applicable to the selected protocol
++ Dynamically disable menu items if the used protocal does not support the corresponding functionality
++ Speed up listing large directories over SFTP
+- Fix state of case sensitivity checkbox in the filter edit dialog if no filter has been selected
+
+3.31.0 (2018-02-23)
+
++ Allow trusting all subject alternative names (SAN) in a certificate if the current hostname matches the certificate
+- OS X: Fix file lists becoming inresponsive when a file rename edit box is discarded by clicking to the right of the last column in the file list
+- Fix rare crash during directory removal
+- Fix rare crash in the transfer queue
+
+3.31.0-rc1 (2018-02-17)
+
++ Allow trusting all subject alternative names (SAN) in a certificate if the current hostname matches the certificate
+- OS X: Fix file lists becoming inresponsive when a file rename edit box is discarded by clicking to the right of the last column in the file list
+- Fix rare crash during directory removal
+- Fix rare crash in the transfer queue
+
+3.30.0 (2018-01-08)
+
+- Add additional logging if autoupdate mechanism fails
+
+3.30.0-rc1 (2017-12-29)
+
++ In the search dialog local files can now be deleted or opened
++ The root node in the remote directory tree is now expanded by default
+- Fix uploading from search dialog
+- Fix formatting of filename in rename dialog
+- MSW: Fix installer crash if an update installation is started with the updated version having been installed
+
+3.29.0 (2017-11-06)
+
+- Fix activity indicators not working after the update check has been run
+
+3.29.0-rc1 (2017-10-31)
+
++ Added new quick search filter to file lists, accessed through Ctrl+F
++ FTP over TLS: Mismatched hostnames are now highlighted in red in the certificate verification dialog
++ Filters using regular expressions can now be case-insensitive
+- Explicitly wait for the settings to be written to disk before removing the backup file to prevent loss of data in case of system crashes
+</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting version">3.28.0</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Last local directory">/</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">1</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">120 80 100 120</Setting>
+		<Setting name="Remote filelist colwidths">80 75 80 100 80 80</Setting>
+		<Setting name="Window position and size">0 162 54 1200 626 </Setting>
+		<Setting name="Splitter positions (v2)">97 -76 500000000 100 100 500000000</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Time Format" />
+		<Setting name="Date Format" />
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor" />
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="Inherit system associations">1</Setting>
+		<Setting name="Custom file associations" />
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Site Manager position" />
+		<Setting name="Icon theme">default</Setting>
+		<Setting name="Icon scale">125</Setting>
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Sitemanager last selected" />
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="Last connected site" />
+		<Setting name="File doubleclock action">0</Setting>
+		<Setting name="Dir doubleclock action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Already connected choice">0</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Show Site Manager on startup">0</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Persistent Choices">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Master password encryptor" />
+		<Setting name="Config Location">/Users/user/.config/filezilla/</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Disable update check">0</Setting>
+		<Setting name="Cache directory" />
+		<LastServer>
+			<Host>dasharoz.ru</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a0125398</User>
+			<Pass encoding="base64">aGliaW51dXdpeA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+		</LastServer>
+	</Settings>
+</FileZilla3>

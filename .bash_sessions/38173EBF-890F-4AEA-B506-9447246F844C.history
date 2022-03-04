@@ -1,0 +1,502 @@
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run serve
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run serve
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+firebase deploy --only hosting
+npm run build
+firebase deploy --only functions
+git reset --hard mentors created582bb87Максим Максимов <bentley.livemusic@gmail.com>20 апр. 2021 г., 21:12
+mentors created582bb87Максим Максимов <bentley.livemusic@gmail.com>20 апр. 2021 г., 21:12
+git reset --hard mentors created582bb87Максим Максимов <bentley.livemusic@gmail.com>20 апр. 2021 г., 21:12
+git reset --hard 582bb87
+git reset --hard 34d0dfd
+npm run serve
+npm run serve
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+npm run serve
+npm runbuild
+npm run muild
+npm run build
+firebase deploy --only hosting
+npnpm run serve
+cd function
+cd functions
+npm i twilio
+firebase deploy --only functions
+firebase deploy --only functions
+npm run serve
+firebase deploy --only functions
+npm run serve
+cd functions
+npm i dotenv
+firebase deploy --only functions
+firebase deploy --only functions
+../
+cd ../
+npm i v-clipboard
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+cd functions
+npm i yookassa
+npm run serve
+npm run serve
+firebase deploy --only functions
+-h
+firebase -h
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+ firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+\firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions:yooKassa
+npm run serve
+npm run serve
+./ngrok http 3000
+ngrok http -host-header=rewrite 3000
+./ngrok http -host-header=rewrite 3000
+ngrok http -host-header=rewrite 3000
+./ngrok http -host-header=rewrite 3000
+./ngrok http --host-header=rewrite 3000
+ngrok http --host-header=rewrite 80
+ngrok http --host-header=rewrite site.dev:80
+./ngrok http --host-header=rewrite 80
+firebase deploy --only functions
+firebase deploy --only functions:yooKassaStatus
+firebase deploy --only functions:yooKassaStatus
+firebase deploy --only functions:yooKassaStatus
+firebase deploy --only functions:yooKassaStatus
+firebase deploy --only functions:yooKassaStatus
+firebase deploy --only functions:yooKassaStatus
+firebase deploy --only functions
+firebase deploy --only functions: yooKassAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+edlint
+eslint
+eslint --init
+firebase deploy --only functions:yooKassaAuto
+npm run serve
+./ngrok http --host-header=rewrite 8080
+npm run serve
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+npm run serve
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+./ngrok http --host-header 8080
+/.ngrok http -host-header 8080
+/.ngrok http -host-header:8080
+/.ngrok http -host-header 80
+/.ngrok http 8080
+./ngrok http --host-header=rewrite 8080
+./ngrok http --host-header=rewrite 8080
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassa
+firebase deploy --only functions
+ firebase deploy --only functions
+firebase deploy --only functions
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions:yooKassa
+npm run build
+npm run buil
+npm run build
+firebase deploy --only hosting
+firebase deploy --only hosting
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+npm run serve
+npm run serve
+npm run serve
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:sendWelcomeEmail
+firebase deploy --only functions:sendWelcomeEmail
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions:sendByeEmail
+npm run build
+firebase deploy --only hosting
+npm run build
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm i datamaps
+npm run serve
+npm run serve
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:freeRegistration
+firbase deploy --only functions:freeRegistration
+firebase deploy --only functions:freeRegistration
+firebase deploy --only functions:freeRegistration
+firebase deploy --only functions:freeRegistration
+firbase deploy --only functions:freeRegistration
+firebase deploy --only functions:freeRegistration
+firebase deploy --only functions
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+ npm install vue-read-more --save
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm install vue@next @chenfengyuan/vue-countdown@next
+npm i vue-countdown
+npm i vue
+npm i vue@2.6.14
+npm uninstall vue-countdown
+npm i vue2-flip-countdown --save
+firebase deploy --only functions:yooKassaNew
+npm run build
+npm run build
+npm run build
+npm run build
+npm cache clean --force
+npm i
+npm run build
+npm i vue2-flip-countdown --save
+firebase deploy --only functions:yooKassaUniversal
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions:yooKassaAuto
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only functions:yooKassaUniversal
+firebase deploy --only function:yooKassaAuto
+firebase deploy --only functions:yooKassaAuto
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm runbuild
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions
+firebase deploy --only functions
+firebase deploy --only hosting
+firebase deploy --only functions
+firebase deploy --only functions:updateMailchimpFields
+firebase deploy --only functions:updateMailchimpFields
+firebase deploy --only functions:updateMailchimpFields
+firebase deploy --only functions:updateMailchimpFields
+npm run build
+firebase deploy --only hosting
+firebase deploy --only hosting
+npm run serve
+firebase deploy --only functions:updateMailchimpFields
+npm run build
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+firebase deploy --only functions:updateMailchimpFields
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+ls
+ls
+cd ../
+cd
+ls
+cd Sites
+ls
+cd ../
+cd Documents
+ls
+cd projects
+ls
+npx create-strapi-starter newMusicationSite nuxt-e-commerce
+npm run develop
+npm install @nuxtjs/vuetify -D
+npm vuetify uninstall
+npm uninstall vuetify
+npm run develop
+cd frontend
+npm i nodemon
+npm uninstall nodemon
+ls
+cd frontend
+npm i axios
+npm install @headlessui/vue
+npm i @heroicons/vue
+npm i
+npm install -D @nuxt/bridge@npm:@nuxt/bridge-edge
+../
+cd ../
+cd ../
+npx create-strapi-app my-project --quickstart
+npm run develop
+git config
+heroku login
+git init
+git add .
+git commit -m "first commit"
+heroku create
+cd ../
+npx create-strapi-app fullstackMusication --quickstart
+cd ../
+npx create-strapi-starter fullstack nuxt-e-commerce
+npm run develop
+npm run develop
+npm run develop
+cd ../
+node --version
+ls
+cd fullstack
+npm i nuxt3
+npm uninstall nuxt3
+cd frontend
+npm i nuxt3
+npm i @headlessui/vue
+npm i @heroicons/vue
+npm i
+cd ../
+ls
+cd ../
+npx nuxi init frontend
+ls
+fullstack
+cd fullstack
+npx nuxi init frontend
+npm run dev
+cd frontend
+npm run dev
+npm run nuxi dev
+npm run dev
+npm i
+npm run dev
+node --version
+cd frontend
+npm i
+cd ../
+npm i
+npm run dev
+npm i @headlessui/vue
+npm i @heroicons/vue
+npm install tailwindcss@latest
+npm uninstall tailwindcss
+npm install --save-dev @nuxtjs/tailwindcss
+npx tailwindcss init
+npm run dev
+npm run dev
+npm i
+nuxi dev
+npm nuxi dev
+npm run dev
+npm install @headlessui/vue
+cd ../
+cd ../
+ls
+cd Documents
+ls
+cd projects
+ls
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init -p
+npm run dev
+npm i
+npm run dev
+npm run dev
+cd
+ls
+cd Ducuments
+cd Documents
+ls
+cd projects
+ls
+cd musicationru
+ls
+npm i
+npm i --force
+npm run dev
+cd ../
+npx create-nuxt-app musication
+git init --initial-branch=main
+git init
+git init --initial-branch=main
+git remote add origin https://gitlab.com/bentley.livemusic/musicationru.git
+cd ../
+npx create-nuxt-app musication
+npx create-nuxt-app musicationru
+npm run dev
+cd musication
+cd musicationru
+npm run dev
+npm run dev
+npm run serve
+npm run serve
+npm run serve
+firebase deploy --hosting
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+npm run build
+firebase deploy --only hosting
+npm run serve
+npm run build
+firebase deploy --only hosting
+sudo npm install -g n
+sudo n 12
